@@ -1,4 +1,43 @@
+# JobSuit AI 🚀  
+### Intelligent Job Matching & Auto-Apply Platform
+
+JobSuit AI is an AI-powered job intelligence system designed to optimize the job search process through intelligent profile-based matching, filtering, and automation.
+
+It analyzes user skills and preferences to surface high-relevance opportunities, eliminate low-quality or fraudulent listings, and streamline the application workflow.
+
+---
+
+## ✨ Key Features
+
+- 🔍 AI-based job matching using profile analysis  
+- 🧠 Intelligent filtering (removes irrelevant/fraud jobs)  
+- 📊 Match scoring system  
+- ⚡ Automated job application workflow  
+- 🎯 Clean dashboard UI  
+
+---
+
+## 🛠 Tech Stack
+
+- React + Tailwind CSS  
+- Python + FastAPI  
+- Groq API  
+
+---
+
+## ⚙️ Setup
+
+Create a `.env` file:
+
+
+
+
+
+
+
+
 # 🔍 Fake Job Posting Detector
+
 
 > **NLP + XGBoost Hybrid Classifier** — Detect fraudulent job postings using text signals and structured metadata.
 
