@@ -1,0 +1,21 @@
+# Env
+.env
+.env*
+
+# Python
+__pycache__/
+*.pyc
+venv/
+
+# Node
+node_modules/
+
+# Project specific
+cache/
+data/
+models/
+uploads/
+.claude/
+
+# Logs
+*.log

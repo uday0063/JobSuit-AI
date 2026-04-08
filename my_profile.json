@@ -1,0 +1,107 @@
+{
+  "name": "Anshu Mishra",
+  "email": "mishraanshupm@gmail.com",
+  "phone": "9810433013",
+  "location": "New Delhi, India",
+  "preferred_location": "Delhi",
+  "max_experience_years": 3,
+  "primary_search_query": "HR Executive",
+  "preferred_job_titles": [
+    "HR",
+    "Recruitment",
+    "Human Resources",
+    "Talent Acquisition",
+    "Recruiter",
+    "Coordinator"
+  ],
+  "blocked_keywords": [
+    "senior",
+    "lead",
+    "manager",
+    "staff",
+    "architect",
+    "principal",
+    "director",
+    "head",
+    "3+ years",
+    "5+ years",
+    "vp",
+    "chief"
+  ],
+  "must_have_skills": [
+    "Recruitment"
+  ],
+  "experience": [
+    {
+      "role": "HR Executive",
+      "company": "Quess",
+      "duration": "Sep 2024 - Present",
+      "key_responsibilities": [
+        "End-to-end recruitment process",
+        "Screening and interviewing candidates",
+        "Offer letter management",
+        "Candidate sourcing from job portals",
+        "Maintaining recruitment tracker",
+        "Onboarding and documentation",
+        "Employee query handling",
+        "Full and Final settlements"
+      ]
+    },
+    {
+      "role": "HR Executive Intern",
+      "company": "Verto Bizerv",
+      "duration": "Jun 2024 - Aug 2024",
+      "key_responsibilities": [
+        "Resume auditing",
+        "Interview coordination",
+        "Administrative HR tasks"
+      ]
+    },
+    {
+      "role": "HR Coordinator",
+      "company": "Jeevitam",
+      "duration": "Jan 2023 - Aug 2023",
+      "key_responsibilities": [
+        "Candidate sourcing",
+        "Email outreach",
+        "Job postings",
+        "Background checks",
+        "HR coordination"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "degree": "B.Com",
+      "institution": "Delhi University",
+      "year": 2024
+    },
+    {
+      "degree": "12th CBSE",
+      "year": 2021
+    },
+    {
+      "degree": "10th CBSE",
+      "year": 2019
+    }
+  ],
+  "soft_skills": [
+    "Self Motivated",
+    "Hard Working",
+    "Goal Oriented",
+    "Positive Thinking"
+  ],
+  "languages": [
+    "Hindi",
+    "English"
+  ],
+  "job_type": [
+    "Full Time",
+    "Internship"
+  ],
+  "remote_preference": [
+    "Onsite",
+    "Hybrid",
+    "Remote"
+  ]
+}

@@ -1,0 +1,7 @@
+# Automated Application Pipeline Dependencies
+# -------------------------------------------------------------
+apify-client
+selenium
+undetected-chromedriver
+python-dotenv
+pandas
